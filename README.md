@@ -1,3 +1,3 @@
 # apana-code
 This is my first  git repository
-Author- Rutuja
+Author- Rutuja (apana-college)
